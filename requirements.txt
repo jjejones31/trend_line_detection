@@ -1,0 +1,8 @@
+# Standard library
+math
+
+# Third-party libraries
+pandas
+mplfinance
+yfinance
+matplotlib
